@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "gatsby-minimal",
+  "version": "1.0.0",
+  "description": "gatsby minimal template with required packages only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharif H. Khan (hello@iife.dev)",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.3.4",
+    "graphql": "^14.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
